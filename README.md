@@ -74,3 +74,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/andreiMoterle/andreiMoterle/output/snake.svg" alt="Snake animation" />
+
+###
