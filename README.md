@@ -69,8 +69,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=andreiMoterle&locale=en&mode=weekly&theme=bear&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=andreiMoterle&theme=dracula&column=-1&row=1&margin-w=7&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreiMoterle&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=andreiMoterle&theme=juicyfresh&column=-1&row=1&margin-w=7&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreiMoterle/andreiMoterle/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreiMoterle/andreiMoterle/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andreiMoterle/andreiMoterle/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
